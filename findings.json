@@ -1,0 +1,15 @@
+{
+ "rows": 1067371,
+ "invoices": 53628,
+ "cancelled_invoices": 8292,
+ "cancel_rate_pct": 15.5,
+ "net_revenue": 17743429.18,
+ "orders": 36969,
+ "aov": 479.95,
+ "customers": 5878,
+ "known_revenue": 17743429.18,
+ "top10_customer_revenue_pct": 63.9,
+ "repeat_revenue_pct": 96.8,
+ "median_m1_retention_pct": 20.5,
+ "seconds": 0.1
+}
