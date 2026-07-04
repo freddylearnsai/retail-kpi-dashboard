@@ -2,7 +2,9 @@
 
 A revenue + cohort-retention analysis of ~1M real e-commerce transactions (UCI Online Retail II, a UK online retailer, Dec 2009–Dec 2011), shipped as a live single-view KPI dashboard — built in public by [freddyxai](https://freddyxai.com/work-with-me).
 
-Status: build in progress. Receipts land in `receipts.md` when the run completes.
+**Live dashboard:** https://freddylearnsai.github.io/retail-kpi-dashboard/ · **Receipts:** [receipts.md](receipts.md) — every number computed by the pipeline, none typed.
+
+Built by [freddyxai](https://freddyxai.com) — your data team, on demand. This is the shape of a [$500 single-view starter](https://freddyxai.com/work-with-me); full dashboards run $600–$1,500.
 
 ## Reproduce
 
